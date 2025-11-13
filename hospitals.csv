@@ -1,0 +1,51 @@
+hospital_id,hospital_name,hospital_type,category,state,city,latitude,longitude
+H001,Mumbai Medical Hospital 1,Private,Cardiology,Maharashtra,Mumbai,8.395379,69.049904
+H002,Thiruvananthapuram Wellness Hospital 2,Public,General,Kerala,Thiruvananthapuram,7.936952,71.653218
+H003,Lucknow Care Hospital 3,Specialty,Cardiology,Uttar Pradesh,Lucknow,11.49209,72.563814
+H004,Bengaluru Wellness Hospital 4,Teaching,Orthopedics,Karnataka,Bengaluru,8.554795,86.144261
+H005,Ahmedabad Health Hospital 5,Specialty,General,Gujarat,Ahmedabad,10.589794,73.879114
+H006,Kolkata Wellness Hospital 6,Public,Maternity,West Bengal,Kolkata,7.788002,72.863566
+H007,Kanpur Care Hospital 7,Public,General,Uttar Pradesh,Kanpur,13.612633,82.461367
+H008,Mumbai Health Hospital 8,Specialty,Orthopedics,Maharashtra,Mumbai,11.534103,83.682209
+H009,Coimbatore Medical Hospital 9,Private,Oncology,Tamil Nadu,Coimbatore,9.669778,85.733092
+H010,Nagpur Care Hospital 10,Private,Cardiology,Maharashtra,Nagpur,11.622602,72.398957
+H011,Thiruvananthapuram Medical Hospital 11,Public,Cardiology,Kerala,Thiruvananthapuram,15.218026,83.100916
+H012,Udaipur Health Hospital 12,Private,Pediatrics,Rajasthan,Udaipur,15.763676,73.293558
+H013,Warangal Wellness Hospital 13,Private,Orthopedics,Telangana,Warangal,8.396303,81.89978
+H014,Kochi Wellness Hospital 14,Specialty,Orthopedics,Kerala,Kochi,9.193208,86.950752
+H015,Kochi Health Hospital 15,Public,General,Kerala,Kochi,8.528413,70.19964
+H016,Jodhpur Health Hospital 16,Specialty,Maternity,Rajasthan,Jodhpur,12.958884,76.360998
+H017,Durgapur Health Hospital 17,Public,Oncology,West Bengal,Durgapur,15.847885,82.017556
+H018,Ahmedabad Medical Hospital 18,Specialty,Cardiology,Gujarat,Ahmedabad,11.537237,86.076319
+H019,Durgapur Care Hospital 19,Public,Oncology,West Bengal,Durgapur,9.984448,79.77899
+H020,Lucknow Care Hospital 20,Teaching,Cardiology,Uttar Pradesh,Lucknow,12.39379,82.57253
+H021,Thiruvananthapuram Medical Hospital 21,Specialty,General,Kerala,Thiruvananthapuram,8.118677,74.259615
+H022,Kolkata Health Hospital 22,Private,Pediatrics,West Bengal,Kolkata,16.469494,68.713069
+H023,Hyderabad Care Hospital 23,Private,Oncology,Telangana,Hyderabad,11.752824,77.996072
+H024,Durgapur Wellness Hospital 24,Private,Pediatrics,West Bengal,Durgapur,14.552652,80.797353
+H025,Howrah Medical Hospital 25,Specialty,Pediatrics,West Bengal,Howrah,11.514861,71.958112
+H026,Pune Health Hospital 26,Private,Pediatrics,Maharashtra,Pune,9.202174,68.419862
+H027,Bengaluru Health Hospital 27,Public,Orthopedics,Karnataka,Bengaluru,7.708573,71.760093
+H028,Hyderabad Care Hospital 28,Specialty,Cardiology,Telangana,Hyderabad,14.846194,83.14994
+H029,New Delhi Health Hospital 29,Specialty,Orthopedics,Delhi,New Delhi,11.235786,76.340493
+H030,Mangalore Health Hospital 30,Public,Maternity,Karnataka,Mangalore,14.282136,83.01185
+H031,Mumbai Care Hospital 31,Private,Pediatrics,Maharashtra,Mumbai,11.486135,75.437633
+H032,Howrah Care Hospital 32,Public,Maternity,West Bengal,Howrah,15.080222,84.119338
+H033,Mumbai Health Hospital 33,Public,Cardiology,Maharashtra,Mumbai,8.663111,76.712823
+H034,North Delhi Health Hospital 34,Private,Maternity,Delhi,North Delhi,7.021554,74.808435
+H035,Warangal Wellness Hospital 35,Specialty,Cardiology,Telangana,Warangal,8.898979,71.354018
+H036,Mangalore Health Hospital 36,Teaching,General,Karnataka,Mangalore,7.501423,76.53577
+H037,Thiruvananthapuram Health Hospital 37,Public,Cardiology,Kerala,Thiruvananthapuram,7.685213,68.359217
+H038,North Delhi Health Hospital 38,Private,Pediatrics,Delhi,North Delhi,12.945192,79.38763
+H039,Jodhpur Medical Hospital 39,Teaching,Cardiology,Rajasthan,Jodhpur,13.69726,73.283677
+H040,Howrah Care Hospital 40,Teaching,Maternity,West Bengal,Howrah,10.161772,82.03729
+H041,Mumbai Wellness Hospital 41,Public,General,Maharashtra,Mumbai,12.376344,77.117694
+H042,Coimbatore Health Hospital 42,Private,Orthopedics,Tamil Nadu,Coimbatore,9.849874,75.763691
+H043,Kozhikode Medical Hospital 43,Public,Oncology,Kerala,Kozhikode,15.171041,72.987575
+H044,Mumbai Medical Hospital 44,Public,General,Maharashtra,Mumbai,14.424167,70.108958
+H045,Durgapur Care Hospital 45,Teaching,Cardiology,West Bengal,Durgapur,13.874971,84.058256
+H046,Kochi Medical Hospital 46,Public,General,Kerala,Kochi,13.342844,83.586962
+H047,Bengaluru Medical Hospital 47,Private,Oncology,Karnataka,Bengaluru,16.79798,70.23164
+H048,Nizamabad Wellness Hospital 48,Public,General,Telangana,Nizamabad,7.752439,84.662128
+H049,Madurai Health Hospital 49,Teaching,Pediatrics,Tamil Nadu,Madurai,12.525251,75.595734
+H050,Mysuru Medical Hospital 50,Public,Orthopedics,Karnataka,Mysuru,9.100765,71.990595
